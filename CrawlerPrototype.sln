@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlerPrototype", "CrawlerPrototype\CrawlerPrototype.csproj", "{08E3772C-D6E1-4AD1-9755-A8838CFC85B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Beta|Any CPU = Beta|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08E3772C-D6E1-4AD1-9755-A8838CFC85B6}.Beta|Any CPU.ActiveCfg = Beta|Any CPU
+		{08E3772C-D6E1-4AD1-9755-A8838CFC85B6}.Beta|Any CPU.Build.0 = Beta|Any CPU
+		{08E3772C-D6E1-4AD1-9755-A8838CFC85B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E3772C-D6E1-4AD1-9755-A8838CFC85B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E3772C-D6E1-4AD1-9755-A8838CFC85B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E3772C-D6E1-4AD1-9755-A8838CFC85B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

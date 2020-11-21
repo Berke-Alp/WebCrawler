@@ -1,0 +1,11 @@
+c:\users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Debug\CrawlerPrototype.exe.config
+c:\users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Debug\CrawlerPrototype.exe
+c:\users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Debug\CrawlerPrototype.pdb
+c:\users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Debug\HtmlAgilityPack.dll
+c:\users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Debug\HtmlAgilityPack.pdb
+c:\users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Debug\HtmlAgilityPack.xml
+c:\users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\obj\Debug\CrawlerPrototype.csprojResolveAssemblyReference.cache
+c:\users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\obj\Debug\CrawlerPrototype.exe
+c:\users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\obj\Debug\CrawlerPrototype.pdb
+C:\Users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Debug\Figgle.dll
+C:\Users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Debug\Figgle.xml

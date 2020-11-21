@@ -1,0 +1,8 @@
+C:\Users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Beta\CrawlerPrototype.exe.config
+C:\Users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Beta\CrawlerPrototype.exe
+C:\Users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Beta\Figgle.dll
+C:\Users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Beta\HtmlAgilityPack.dll
+C:\Users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Beta\Figgle.xml
+C:\Users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Beta\HtmlAgilityPack.pdb
+C:\Users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\bin\Beta\HtmlAgilityPack.xml
+C:\Users\berke\documents\visual studio 2013\Projects\CrawlerPrototype\CrawlerPrototype\obj\Beta\CrawlerPrototype.exe
